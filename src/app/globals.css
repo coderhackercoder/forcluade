@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f8f3ea;
+  --foreground: #46413a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-body);
+  --font-serif: var(--font-display);
+
+  --color-forest: #103c23;
+  --color-forest-light: #174c2b;
+  --color-forest-dark: #0c2817;
+  --color-sage: #b7c29c;
+  --color-sage-dark: #6f7d4d;
+  --color-kraft: #d6be92;
+  --color-kraft-dark: #be9a63;
+  --color-cream: #f4ebdd;
+  --color-cream-dark: #e7d8bf;
+  --color-blush: #dcb9a4;
+  --color-blush-dark: #c78e73;
+  --color-nav: #f4ebdd;
+  --color-heading: #16311f;
+  --color-muted: #726c64;
+  --color-line: #d8cfbf;
+}
+
+* {
+  border-color: var(--color-line);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), Arial, Helvetica, sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-display), Georgia, serif;
+}
+
+@keyframes ticker-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-ticker {
+  animation: ticker-scroll 32s linear infinite;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.shadow-card,
+.shadow-card-lg {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+}
+
+.shadow-sticker {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
