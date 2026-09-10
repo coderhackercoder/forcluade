@@ -1,36 +1,43 @@
 # Why do some homeless people have better hair than you?
 
-Written in the QOVES short-form style: one question hook, straight into the numbers, one or two named studies, plain language, "we/our team" voice, an honest caveat, then the CTA.
+QOVES-style short. Final VO below, with a shot list matched line by line.
 
----
+## Final voice-over
 
-## Version A — main (~90 seconds, ~260 words)
+Why do some homeless people have far better-looking hair compared to people who use really expensive hair products daily? Not all, but some homeless people have really dense and healthy-looking hair. This is because they don't shampoo, blow-dry, or comb their hair when wet, which are all factors that can make your hair look frizzy and weak when done frequently.
 
-Why do some homeless people have better hair than most people with a full bathroom cabinet?
+So does that mean you should throw away all your hair products and start homeless-maxing? Nope, that's not the method. You're going to smell, and you're going to have buildup in your hair, which could also lead to scalp problems. The key is to not strip your hair of its natural oils simply to replace them with a lot of products.
 
-You've probably seen the viral photos. A man sleeping rough with hair that looks healthier than a celebrity's. It's not a coincidence, and it's not the lifestyle. It comes down to one thing: hair can't repair itself. Every strand is dead keratin wrapped in a layer of scales called the cuticle. Once those scales chip, they stay chipped. So the healthiest hair isn't the hair that's been treated the most. It's the hair that's been damaged the least.
+1. Try to shampoo your hair only once or twice a week with a mild, nontoxic shampoo without harsh sulfates and drying alcohols, and use a nontoxic conditioner after. You don't necessarily have to shampoo on a strict schedule either. Sometimes, not using shampoo and simply washing your hair whenever it gets dirty or oily is all you need.
 
-And most people damage their hair four ways every single day. Heat. Lee and colleagues found that even a normal hair dryer held too close produces measurable cuticle damage. The undamaged control group was air-dried hair. Chemistry. Bleach, dye, and relaxers work by breaking the bonds inside the strand, and those bonds never fully come back. Washing. Sulfate shampoos strip the natural oil film that acts as your hair's built-in conditioner, and that squeaky clean feeling is actually a roughened surface. And brushing. Wet hair loses around a third of its strength, so brushing it wet slowly grinds the cuticle down.
+2. Make sure you don't comb or rub a towel over your wet hair, as that's when it's most susceptible to damage.
 
-Someone with no dryer, no dye, no daily shampoo, and no brush is running the control condition on all four. To be clear, we're not saying homelessness is good for hair. Stress and malnutrition cause shedding, and you're only noticing the rare person it worked out for. But the lesson does hold. Air-dry, skip the chemistry, brush dry, and wash two or three times a week with a mild, non-toxic shampoo. Not water only. Your scalp still needs cleaning. Your hair just doesn't need to be stripped.
+3. Air-dry your hair if possible. If you need to use a hair dryer, use it at a moderately low temperature and avoid holding it too close to your hair. You can also gently scrunch your hair with a dry towel to remove excess water instead of aggressively rubbing it.
 
-If you want to know which shampoos actually meet that standard, check out nontox.com.
+4. Try to use minimal styling products that don't contain irritating ingredients, and make sure to wash them off before bed to prevent buildup.
 
----
+That's it, easy and simple. Doing more does not mean better hair.
 
-## Version B — tight (~60 seconds, ~170 words)
+## Shot list (QOVES look: dark/neutral background, split frames, thin red lines, short noun overlays)
 
-Why do some homeless people have better hair than you?
-
-You've seen the viral photos, and the reason is simpler than it looks. Hair is dead tissue. It can't heal. So the healthiest hair isn't the hair that's been treated the most. It's the hair that's been damaged the least. And most people damage theirs four ways a day. Heat. Lee and colleagues found a regular dryer held too close causes visible cuticle damage, and air-dried hair was the undamaged control. Chemistry. Bleach and dye break bonds that never fully come back. Sulfate shampoo, which strips the oil film that's your hair's built-in conditioner. And brushing wet, when hair is about a third weaker. Someone with none of those is running the control condition on all four. We're not saying the lifestyle is good for hair. Stress and malnutrition cause shedding, and you only notice the rare person it worked out for. But the lesson holds. Air-dry, skip the chemistry, brush dry, and wash two to three times a week with a mild, non-toxic shampoo. Not water only. Your scalp still needs cleaning.
-
-If you want to know which shampoos actually meet that standard, check out nontox.com.
-
----
+| VO line | Visual | On-screen text |
+|---|---|---|
+| "Why do some homeless people…" | Split frame: viral street portrait (licensed/recreated) vs. a styled model under harsh light. Red line traces the shine band on the left. | — |
+| "Not all, but some…" | Two or three more viral portraits, quick cuts. | **NOT ALL. SOME.** |
+| "…don't shampoo, blow-dry, or comb when wet" | Three icons stamp in: shampoo bottle, dryer, comb — each crossed out. | **SHAMPOO · HEAT · WET COMBING** |
+| "…frizzy and weak" | SEM image: smooth cuticle → lifted, chipped cuticle. | **CUTICLE** |
+| "…start homeless-maxing? Nope." | Hard cut to a greasy scalp close-up with buildup/flakes. | **NOPE.** |
+| "…smell… buildup… scalp problems" | Diagram: scalp (living) vs. hair length (dead). | **SCALP STILL NEEDS CLEANING** |
+| "The key is to not strip…" | Strand diagram: oil film washed off, then five product bottles piling on. | **STRIP → REPLACE → REPEAT** |
+| **1.** shampoo 1–2×/week, mild, nontoxic | Ingredient label scroll; "sodium lauryl sulfate", "alcohol denat." highlighted red; "coco-glucoside" green. | **1 · MILD, NONTOXIC** |
+| "…whenever it gets dirty or oily" | Calendar with no marks. | **NO STRICT SCHEDULE** |
+| **2.** no combing / towel-rubbing wet | Slow-mo: comb through wet hair, strands stretching. | **2 · NEVER WET** |
+| **3.** air-dry / low heat / scrunch | Dryer at distance with a ruler overlay; then hands scrunching with a towel. | **3 · AIR-DRY** |
+| **4.** minimal styling, wash off | Small dab of product; then rinse at night. | **4 · LESS, RINSED** |
+| "Doing more does not mean better hair." | Back to opening split frame, held. | **MORE ≠ BETTER** |
+| CTA | Screen-record: NonTox search bar, "shampoo", results. | link in bio |
 
 ## Notes
-
-- Swap "nontox.com" for whatever the real link-in-bio is.
-- Citation on screen: Lee Y. et al., *Annals of Dermatology*, 2011 (hair-dryer temperature and distance vs. cuticle damage).
-- Keep the "we're not saying homelessness is good for hair" line. It's the QOVES move ("we're not endorsing this, we're describing it") and it keeps the video from reading as glamorising.
-- If you ever name a real person, stick to already-public cases (e.g. Rafael Nunes, Brazil, 2013) and use licensed images.
+- Two tiny edits made to the VO: added "1." before the first tip so the numbering matches 2–4, and "crunch" → "scrunch".
+- Optional closing line if you want the QOVES-style CTA: "If you want to know which shampoos actually meet that standard, check out the link in bio at nontox.com."
+- Use licensed or recreated portraits; don't name anyone who isn't already a public viral case.
