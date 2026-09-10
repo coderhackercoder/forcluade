@@ -1,0 +1,18 @@
+{
+  "project": "homeless-hair-tiktok",
+  "format": "9:16, 1080x1920 target, faceless, burned captions",
+  "voiceover": {
+    "job_id": "3ea42c0e-8450-4192-b847-20bc2a136701",
+    "voice": "Cillian (preset d8ba9f14-8a24-44db-932b-99e16c45bd32)",
+    "duration_sec": 113.28,
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3CTg5XFpRLhriHxdpgeu4IT2ZhY/hf_20260910_084626_3ea42c0e-8450-4192-b847-20bc2a136701.mp3"
+  },
+  "stills_done": {
+    "1_portrait_golden_hour": "24291d73-4efd-45e0-8c10-c213ca1d749b",
+    "7_shower_rinse": "acd16a1d-c5f6-4986-8591-f293b508a992",
+    "10_pea_of_product": "cf043af8-b2bd-40e6-838c-0eea78cf9388",
+    "11_closing_wide": "e6ca9581-f6b8-4da6-b6b0-9d370a4dd81f"
+  },
+  "stills_blocked_daily_limit": [2, 3, 4, 5, 6, 8, 9],
+  "hook_clip": "seedance_2_0 1080p 10s — blocked: requires Plus plan or higher"
+}
