@@ -13,6 +13,19 @@
     "10_pea_of_product": "cf043af8-b2bd-40e6-838c-0eea78cf9388",
     "11_closing_wide": "e6ca9581-f6b8-4da6-b6b0-9d370a4dd81f"
   },
-  "stills_blocked_daily_limit": [2, 3, 4, 5, 6, 8, 9],
-  "hook_clip": "seedance_2_0 1080p 10s — blocked: requires Plus plan or higher"
+  "stills_blocked_daily_limit": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9
+  ],
+  "hook_clip": "seedance_2_0 1080p 10s \u2014 blocked: requires Plus plan or higher",
+  "draft_cut": {
+    "media_id": "5bcacecc-8e49-46cd-9ecb-18b51114f043",
+    "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3CTg5XFpRLhriHxdpgeu4IT2ZhY/5bcacecc-8e49-46cd-9ecb-18b51114f043.mp4",
+    "spec": "1080x1920 30fps, 113.27s, 4 stills with push-ins/pans, Cillian VO, burned TikTok-style captions (81 cues, script-aligned, similarity 0.947)"
+  }
 }
